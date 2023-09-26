@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Football",
+      "price": 49.99,
+      "category": "Sporting Goods",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "name": "Baseball",
+      "price": 9.99,
+      "category": "Sporting Goods",
+      "stock": 9
+    },
+    {
+      "id": 3,
+      "name": "Basketball",
+      "price": 29.99,
+      "category": "Sporting Goods",
+      "stock": 0
+    },
+    {
+      "id": 4,
+      "name": "iPod Touch",
+      "price": 99.99,
+      "category": "Electronics",
+      "stock": 2
+    },
+    {
+      "id": 5,
+      "name": "iPhone 5",
+      "price": 399.99,
+      "category": "Electronics",
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "name": "Nexus",
+      "price": 199.99,
+      "category": "Electronics",
+      "stock": 0
+    }
+  ]
+}
